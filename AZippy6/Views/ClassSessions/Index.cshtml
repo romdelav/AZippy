@@ -1,0 +1,59 @@
+﻿@model IEnumerable<AZippy6.Models.ClassSession>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            CLASS TITLE
+        </th>
+        <th>
+            CLASS DATE/TIME
+        </th>
+        <th>
+            CLASS LOCATION
+        </th>
+        <th>
+            CLASS FEE
+        </th>
+
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FitnessClass.fitnessclassId)
+                    @Html.DisplayFor(modelItem => item.FitnessClass.fitnessclassTitle)
+
+                </td>
+                <td>
+                    @item.classSessionStartTime.DayOfWeek
+                    @item.classSessionStartTime.ToString("g")
+
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Location.locationShortName)
+
+                </td>
+                <td>
+                    $@Html.DisplayFor(modelItem => item.FitnessClass.fitnessclassFee)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.classSessionId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.classSessionId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.classSessionId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

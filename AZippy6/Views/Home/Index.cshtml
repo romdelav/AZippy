@@ -1,0 +1,66 @@
+﻿@{
+    <!--sets the title view to Home Page-->
+    ViewData["Title"] = "Home Page";
+}
+@*Romain: added style tag pairs to format text description*@
+<style>
+ @*Romain*@
+    .txstyle1 { @*Romain*@
+        font-weight: 700; @*Romain*@
+    } @*Romain*@
+    body { @*Romain*@
+        text-align: justify; @*Romain*@
+    } @*Romain*@
+</style> @*Romain*@
+<!--declares the use of the container-fluid class which will take the full width of the viewport-->
+<div class="container-fluid">
+    <!--sectioned row class that holds columns-->
+    <div class="row">
+        <!--row class with a column property of 3 and small devices-->
+        <div class="col-sm-3">
+            <!--defines the use of an image-->
+            <br/><br/>
+            <img src="~/images/mainimageA.png" alt="A" class="img-responsive">
+            <!--defines the use of an image-->
+            <img src="~/images/mainimageB.png" alt="B" class="img-responsive">
+            <!--closes div-->
+        </div>
+        <br /><br /> @*Romain*@
+        <!--row class with a column property of 6 and small devices-->
+        <div class="col-sm-6">
+            <!--declares a header-->
+            <h4 class="txstyle1">AZIPPY fitness centers are popular with average people and professional athletes residing in the Chicagoland area. </h4> @*Romain: added txstyle1 style class*@
+            <br /><br /> @*Romain*@
+            <!--declares paragraph-->
+            <p>Our health, recreational, and social facilities are geared towards exercise, sports, and other physical activities.   We strive at our fitness centers to accommodate many different types of exercise under one roof.</p>
+            <!--break-->
+            <br>
+            <!--declares paragraph-->
+            <p>
+                Our locations are equipped with especially-designed machines to provide an assortment of exercises to improve mental capacity, control, balance, flexibility, endurance, breathing, and much more.
+                Our fitness centers include aerobic training that focuses on cardiovascular health with the use of equipment, classes, and workouts. Several of our centers include yoga classes which feature different kinds and styles of exercises for a healthy body and mind.
+            </p>
+            <!--break-->
+            <br>
+            <!--declares paragraph-->
+            <p>
+                Our facilities include running tracks, racquetball courts, rooms for martial arts, yoga, Pilates, spinning, weight training and regular gym equipment including treadmills, elliptical and cycling machines. We are proud of the additional amenities that we provide including saunas, steam rooms, warm-up and cool rooms, showers, locker rooms, childcare services on weekends and weekday mornings, juice bars, and snack bars.
+            </p>
+            <!--break-->
+            <br>
+            <!--declares paragraph-->
+            <p> Our monthly membership fees start as low as $50 dollars and depend on the services and amenities you choose.  Sign up today and get started on a path to mental and physical fitness, zippy quick!</p>
+            <!--closes div-->
+        </div>
+        <!--row class with a column property of 3 and small devices-->
+        <div class="col-sm-3">
+            <!--defines the use of an image-->
+            <img src="~/images/mainimageC.png" alt="C" class="img-responsive">
+            <!--defines the use of an image-->
+            <img src="~/images/mainimageD.png" alt="D" class="img-responsive">
+            <!--closes div-->
+        </div>
+        <!--closes div-->
+    </div>
+    <!--closes div-->
+</div>

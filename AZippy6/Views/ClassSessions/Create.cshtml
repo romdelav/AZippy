@@ -1,0 +1,46 @@
+﻿@model AZippy6.Models.ClassSession
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>ClassSession</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="classSessionId" class="control-label">Class Session ID</label>
+                <input asp-for="classSessionId" class="form-control" />
+                <span asp-validation-for="classSessionId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fitnessClassId" class="control-label">Class Title</label>
+                <select asp-for="fitnessClassId" class ="form-control" asp-items="ViewBag.fitnessClassId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="classSessionStartTime" class="control-label">Session Start Time</label>
+                <input asp-for="classSessionStartTime" class="form-control" />
+                <span asp-validation-for="classSessionStartTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="locationId" class="control-label">Location</label>
+                <select asp-for="locationId" class ="form-control" asp-items="ViewBag.locationId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

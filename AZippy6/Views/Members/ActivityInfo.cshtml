@@ -1,0 +1,36 @@
+﻿
+@model AZippy6.Models.Member
+
+@{
+    ViewData["Title"] = "ActivityInfo";
+}
+
+<h2>Display the activity information for a member</h2>
+
+<form asp-action="MemberActivities">
+    <div class="form-horizontal">
+
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-group">
+            <div class="col-md-2 control-label">
+                Choose the member:
+            </div>
+            <div class="col-md-10">
+                <select asp-for="memberId" class="form-control" asp-items="ViewBag.listofmembers"></select>
+            </div>
+        </div>
+        <br /><br /><br /><br /><br />
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                &nbsp;&nbsp;&nbsp;
+                <input type="submit" value="Member Activities Information" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

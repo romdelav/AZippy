@@ -1,0 +1,56 @@
+﻿@using AZippy6.Models;
+@model IEnumerable<AZippy6.Models.ClassEnrollee>
+
+@{
+    ViewData["Title"] = "MemberActivities";
+    double feeTotal = 0.0;
+
+}
+
+
+<h2>Current Activities scheduled for  @ViewBag.member.firstName @ViewBag.member.lastName</h2>
+<br />
+<br />
+<table class="table-bordered f20">
+    <thead>
+        <tr>
+            <th class="centerit"> Class Session</th>
+            <th class="centerit"> Class Title</th>
+            <th class="centerit"> Time Offered</th>
+            <th class="centerit">   Location </th>
+            <th class="w10 centerit"> Fee</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="centerit">  @Html.DisplayFor(modelItem => item.classSessionId)</td>
+
+                <td class="pad20"> @item.ClassSession.FitnessClass.fitnessclassTitle.Trim() </td>
+                <td class="centerit pad20">
+                    @item.ClassSession.classSessionStartTime.DayOfWeek
+                    @item.ClassSession.classSessionStartTime.ToString("g")
+                </td>
+                <td class="pad20"> @Html.DisplayFor(modelItem => item.ClassSession.Location.locationShortName) </td>
+                <td class="pad20 centerit"> $ @Html.DisplayFor(modelItem => item.ClassSession.FitnessClass.fitnessclassFee)</td>
+                <td class="pad20"> <a asp-area="" asp-controller="ClassEnrollees" asp-action="Delete" asp-route-id="@item.enrolledRegisrationId">Withdraw<br />from Class</a></td>
+            </tr>
+            feeTotal += item.ClassSession.FitnessClass.fitnessclassFee;
+        }
+    </tbody>
+</table>
+@{
+    if (ViewBag.member.currentAmountOwed > feeTotal)
+    {
+        <h3>Member's current amount owed is: <span class="rwarning">  $@ViewBag.member.currentAmountOwed</span></h3>
+    }
+    else if (ViewBag.member.currentAmountOwed < feeTotal)
+    {
+        <h3>Member's current amount owed is: <span class="ginfo">  $@ViewBag.member.currentAmountOwed</span></h3>
+    }
+    else
+    {<h3>Member's current amount owed is: $@ViewBag.member.currentAmountOwed </h3>}
+}
+<br />
+<br /> 

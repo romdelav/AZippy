@@ -1,0 +1,48 @@
+﻿@model AZippy6.Models.ClassEnrollee
+
+@{
+    ViewData["Title"] = "Enroll Member in a Session";
+}
+
+<h2>Create</h2>
+
+<form asp-action="EnrollMember">
+    <div class="form-horizontal">
+        <h4>Enroll a member in a class session</h4>
+        <hr />
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+        <div class="col-md-2 control-label">Fitness class<br />session:</div>
+        <div class="col-md-10">
+            <select asp-for="classSessionId" class="form-control" asp-items="ViewBag.listofclasses"></select>
+        </div>
+    </div>
+    <br /><br /><br /><br /><br /><br />
+    <div class="form-group">
+        <div class="col-md-2 control-label">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member:
+        </div>
+        <div class="col-md-10">
+            <select asp-for="memberId" class="form-control" asp-items="ViewBag.listofmembers"></select>
+        </div>
+    </div>
+    <br /><br /><br /><br /><br />
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            &nbsp;&nbsp;&nbsp;
+            <input type="submit" value="Enroll Member in Class" class="btn btn-default" />
+        </div>
+    </div>
+
+</form>
+
+<div>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

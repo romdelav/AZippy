@@ -1,0 +1,121 @@
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.deps.json
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.runtimeconfig.json
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.runtimeconfig.dev.json
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.dll
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.pdb
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.Views.dll
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.Views.pdb
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.csprojAssemblyReference.cache
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.csproj.CoreCompileInputs.cache
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.RazorAssemblyInfo.cache
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.RazorAssemblyInfo.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.AssemblyInfoInputs.cache
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.AssemblyInfo.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.TagHelpers.input.cache
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.TagHelpers.output.cache
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.RazorCoreGenerate.cache
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.RazorTargetAssemblyInfo.cache
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.RazorTargetAssemblyInfo.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.Views.pdb
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.dll
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.pdb
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.csproj.CopyComplete
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\FitnessClasses\Create.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\FitnessClasses\Delete.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\FitnessClasses\Details.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\FitnessClasses\Edit.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\FitnessClasses\Index.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Locations\Create.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Locations\Delete.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Locations\Details.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Locations\Edit.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Locations\Index.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassSessions\Create.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassSessions\Delete.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassSessions\Details.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassSessions\Edit.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassSessions\Index.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassEnrollees\Create.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassEnrollees\Delete.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassEnrollees\Details.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassEnrollees\Edit.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassEnrollees\Index.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\ActivityInfo.g.cshtml.cs
+C:\Users\mpolk\source\repos\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\MemberActivities.g.cshtml.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.deps.json
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.runtimeconfig.json
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.runtimeconfig.dev.json
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.dll
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.pdb
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.Views.dll
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\bin\Debug\netcoreapp2.1\AZippy6.Views.pdb
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.csprojAssemblyReference.cache
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.RazorAssemblyInfo.cache
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.RazorAssemblyInfo.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.AssemblyInfoInputs.cache
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.AssemblyInfo.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.TagHelpers.input.cache
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.TagHelpers.output.cache
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.RazorCoreGenerate.cache
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassEnrollees\Create.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassEnrollees\Delete.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassEnrollees\Details.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassEnrollees\Edit.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassEnrollees\Index.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassSessions\Create.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassSessions\Delete.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassSessions\Details.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassSessions\Edit.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\ClassSessions\Index.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\FitnessClasses\Create.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\FitnessClasses\Delete.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\FitnessClasses\Details.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\FitnessClasses\Edit.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\FitnessClasses\Index.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Locations\Create.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Locations\Delete.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Locations\Details.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Locations\Edit.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Locations\Index.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\ActivityInfo.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Members\MemberActivities.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.RazorTargetAssemblyInfo.cache
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.RazorTargetAssemblyInfo.cs
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.Views.pdb
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.dll
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.pdb
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.csproj.CopyComplete
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.csproj.CoreCompileInputs.cache
+E:\Software Development\SD 733-01 Web Development Server-Side\Week 6\AZippy6\AZippy6\obj\Debug\netcoreapp2.1\AZippy6.genruntimeconfig.cache
